@@ -20,7 +20,7 @@
                     <td>$row[name]</td>
                     <td>$row[desc]</td>
                     <td>$row[price]</td>
-                    <td><a href='delete_page.php?id=$row[id]'>Delete</a></td>
+                    <td><a href='warning.php?id=$row[id]'>Delete</a></td>
                 </tr>";
             }
         ?>
